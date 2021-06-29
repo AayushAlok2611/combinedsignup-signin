@@ -83,7 +83,6 @@ const Login = () => {
               clientId="8396-5192-8173 " //we need clientId
               onSuccess={responseGoogle}
               onFailure={responseGoogle}
-              
             />
             {/* Sign in with google */}
           </Button>
